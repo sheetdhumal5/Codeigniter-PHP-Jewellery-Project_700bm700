@@ -1,1 +1,1 @@
-# Codeigniter-PHP-Jwellery-Project
+# Codeigniter-PHP-Jwellery-Managment-Project
